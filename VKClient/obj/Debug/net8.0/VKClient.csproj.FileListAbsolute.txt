@@ -1,0 +1,15 @@
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/bin/Debug/net8.0/VKClient
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/bin/Debug/net8.0/VKClient.deps.json
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/bin/Debug/net8.0/VKClient.runtimeconfig.json
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/bin/Debug/net8.0/VKClient.dll
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/bin/Debug/net8.0/VKClient.pdb
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.AssemblyInfoInputs.cache
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.AssemblyInfo.cs
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.csproj.CoreCompileInputs.cache
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.sourcelink.json
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.dll
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/refint/VKClient.dll
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.pdb
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/VKClient.genruntimeconfig.cache
+/home/ilya/C# Projects/VkClient/ClientVK/VKClient/obj/Debug/net8.0/ref/VKClient.dll

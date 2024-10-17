@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VKClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93adb93634ccba9388cb71b20dd2171d1c6547a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c7331d3bba352d08c62b26c42658add012603da")]
 [assembly: System.Reflection.AssemblyProductAttribute("VKClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VKClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
